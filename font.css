@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Ngrawitweb';
+  src: url('Ngrawitweb.woff') format('woff'),
+       url('Ngrawitweb.ttf') format('truetype'),
+       url('Ngrawitweb.svg#Ngrawitweb') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Web-Ngrawit';
+  src: url('Web-Ngrawit.eot');
+  src: url('Web-Ngrawit.woff2') format('woff2'),
+       url('Web-Ngrawit.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
